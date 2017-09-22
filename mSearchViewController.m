@@ -2,7 +2,7 @@
 //  mSearchViewController.m
 //  iAppSkeleton
 //
-//  Created by Jon Smith on 8/21/15.
+//  Created by Jon Smith on 9/21/17.
 //  Copyright (c) 2017 Jon Smith. All rights reserved.
 //
 #define kOFFSET_FOR_KEYBOARD 220.0
